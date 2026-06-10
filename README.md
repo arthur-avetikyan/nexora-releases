@@ -1,2 +1,2 @@
 # nexora-releases
-Nexora release &amp; auto-update feed
+Nexxora release &amp; auto-update feed
